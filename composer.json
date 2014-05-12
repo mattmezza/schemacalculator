@@ -1,0 +1,16 @@
+{
+    "name": "mattmezza/bd2",
+    "description": "some bd2 helper script",
+    "authors": [
+        {
+            "name": "Matteo Merola",
+            "email": "mattmezza@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {"Matt\\": "Matt"}
+    }
+}
